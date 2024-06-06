@@ -1,2 +1,4 @@
 membuat ui
 chart
+
+report
